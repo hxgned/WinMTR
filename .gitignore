@@ -11,3 +11,8 @@
 *.lai
 *.la
 *.a
+
+src/.vs/*
+src/Release/*
+src/Release_x64/*
+
